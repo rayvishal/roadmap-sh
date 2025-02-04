@@ -1,8 +1,3 @@
-# This is a sample
+## What is JavaScript?
 
-> This is a text what shoudli do.<br> this is apple return
-> This is my food and i want this
-
-> This is a text what shoudli do.<br> this is apple return
->
-> > This is my food and i want this
+JavaScript is a programming language . It lets us add interactivity to pages e.g. you might have seen sliders, alerts, click interactions, popups, etc on different websites — all of that is built using JavaScript. Apart from being used in the browser, it is also used in other non-browser environments as well such as Node.js for writing server-side code in JavaScript.
